@@ -1,1 +1,5 @@
 this is foo
+<<<<<<< HEAD
+=======
+this is it
+>>>>>>> d707f539523097c6d09a335d7732eac223627c7f
